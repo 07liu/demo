@@ -1,0 +1,5 @@
+spring:
+  datasource:
+      driver-class-name: org.sqlite.JDBC
+      url: jdbc:sqlite:E:\ideaSpace\demo\src\main\resources\static\db_demo.db
+
